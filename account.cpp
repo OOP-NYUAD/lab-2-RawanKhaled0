@@ -87,7 +87,7 @@ public:
     //DESTRUCTOR
 
     ~Account() {
-        cout << "Account with balance " << balance << " is being destroyed " << endl;
+        cout << "Account with balance " << balance << " is being destroyed." << endl;
     }
 };
 
